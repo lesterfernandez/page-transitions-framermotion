@@ -4,6 +4,8 @@
 
 ```sh
 git clone -b start git@github.com:lesterfernandez/page-transitions-framermotion.git
+
+cd page-transitions-framermotion
 ```
 
 then
