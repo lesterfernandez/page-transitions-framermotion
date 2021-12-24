@@ -3,7 +3,7 @@ https://www.youtube.com/watch?v=pTinipkJBcs
 ### To follow along just run
 
 ```sh
-git clone -b start git@github.com:lesterfernandez/page-transitions-framermotion.git
+git clone git@github.com:lesterfernandez/page-transitions-framermotion.git -b start
 
 cd page-transitions-framermotion
 ```
